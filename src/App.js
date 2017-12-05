@@ -23,7 +23,7 @@ class App extends Component {
         </ul>
         </section>
         <section className="item cashplus">
-          <img src="http://mycard.usbank.com/credit/mycardusb/html/assets/images/cashplus/card-art-cash-plus.png" />        
+          <img src="https://mycard.usbank.com/credit/mycardusb/html/assets/images/cashplus/card-art-cash-plus.png" />        
             <ul>
               <li className="category">2%: {Categories.cashplus.two}</li>
             { Categories.cashplus.five.map((category) =>
