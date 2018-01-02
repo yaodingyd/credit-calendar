@@ -1,9 +1,9 @@
 export default {
   "freedom": [
-    "Walmart", "Wholesale Club"
+    "Gas", "Phone Bill"
   ],
   "discover": [
-    "Amazon", "Target"
+    "Gas", "Wholesale"
   ],
   "cashplus": {
     "two": "Dining",
